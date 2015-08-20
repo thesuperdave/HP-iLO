@@ -1,2 +1,3 @@
 # HP-iLO
-HP iLOConfiguration
+HP iLO Configuration
+Sys Admin in HP shop automating iLO configuation
